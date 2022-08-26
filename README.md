@@ -1,5 +1,7 @@
-### Hi there 👋
+### Welcome to my profile!
 
+#### Check out some of my various probably broken web apps (Feel free to fix them if you wish).
+Currenty working on some more private closed source apps behind the scenes!
 <!--
 **trogy/trogy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
